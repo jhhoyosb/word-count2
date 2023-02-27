@@ -7,7 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+git clone
 
 
 Make
@@ -23,10 +23,10 @@ Generate all results:
 Snakemake
 ---------
 
-Write me ...
+Good Point.
 
 
 Where to find the results
 -------------------------
 
-Write me ...
+Here we go...

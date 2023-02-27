@@ -47,3 +47,4 @@ Meta
 ----
 
 - Add new exercises ideas for future workshops (edit this file).
+Here we go.
