@@ -35,6 +35,31 @@ Basic
 - Document where/how to ask for help.
 - Add a math equation somewhere.
 
+  
+$$
+    y    & = ax^2 + bx + c \\
+    f(x) & = x^2 + 2xy + y^2
+$$
+
+$$
+e = mc^2
+$$ (eqn:best)
+
+
+Hence, for $\alpha \in (0, 1)$,
+$$
+  \mathbb P (\alpha \bar{X} \ge \mu) \le \alpha;
+$$
+i.e., $[\alpha \bar{X}, \infty)$ is a lower 1-sided $1-\alpha$ confidence bound for $\mu$.
+
+
+- A list
+- $$ a = 1 $$
+
+> A block quote
+> $$ a = 1 $$
+
+
 
 Advanced
 --------
