@@ -46,18 +46,6 @@ e = mc^2
 \end{equation}
 
 
-Hence, for $\alpha \in (0, 1)$,
-$$
-  \mathbb P (\alpha \bar{X} \ge \mu) \le \alpha;
-$$
-i.e., $[\alpha \bar{X}, \infty)$ is a lower 1-sided $1-\alpha$ confidence bound for $\mu$.
-
-
-- A list
-- $$ a = 1 $$
-
-> A block quote
-> $$ a = 1 $$
 
 
 
