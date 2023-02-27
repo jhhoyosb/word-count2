@@ -3,7 +3,7 @@
 Purpose
 =======
 
-Write me ...
+Write me Documentation,
 
 
 Zipf's law
