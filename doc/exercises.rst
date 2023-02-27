@@ -36,14 +36,14 @@ Basic
 - Add a math equation somewhere.
 
   
-$$
+\begin{eqnarray}
     y    & = ax^2 + bx + c \\
     f(x) & = x^2 + 2xy + y^2
-$$
+\end{eqnarray}
 
-$$
+\begin{equation}
 e = mc^2
-$$ (eqn:best)
+\end{equation}
 
 
 Hence, for $\alpha \in (0, 1)$,
