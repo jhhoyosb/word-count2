@@ -15,3 +15,4 @@ word-count
    usage.rst
    credit.rst
    exercises.rst
+   output.rst

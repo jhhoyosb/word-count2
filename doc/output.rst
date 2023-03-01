@@ -1,0 +1,8 @@
+
+Equations
+=========
+
+In physics, the mass-energy equivalence is stated by the equation
+:math:`E=mc^{2}`, discovered in 1905 by Albert Einstein.
+
+.. math:: \frac{m}{2} \frac{d E}{dx}=x^2+y^2
