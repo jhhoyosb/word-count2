@@ -16,4 +16,4 @@ word-count
    credit.rst
    exercises.rst
    output.rst
-   main.rst
+
